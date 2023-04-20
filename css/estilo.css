@@ -1,0 +1,5 @@
+.alpha50 {
+    filter: alpha(opacity=50);   /* Para IExplorer*/
+    opacity: .5;   /* Para Firefox*/
+    -moz-opacity:0.5;     /*Para Mozilla*/
+  } 
